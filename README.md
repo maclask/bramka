@@ -1,6 +1,6 @@
 # Bramka płatnicza
-Bramka płatnicza stworzona dla postalu Adeste.eu. 
+Bramka płatnicza stworzona dla portalu Adeste.eu. 
 
-Obsługije serwis Tpay.com
+Obsługuje serwis Tpay.com
 
 WP Plugin
